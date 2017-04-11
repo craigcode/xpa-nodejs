@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="xpa-nodejs"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{CEAFB60E-71C0-4103-9FB5-996B4E1FCE3C}"/>
+    <Version min="13020"/>
+    <SourceVersion val="13020.00"/>
+  </_Project>
+
+</Application>
